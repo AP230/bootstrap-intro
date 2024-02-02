@@ -1,0 +1,7 @@
+.container-lg, .container-fluid {
+    background-color: hsl(60, 19%, 89%);
+}
+
+.col {
+    border: 1px solid bisque;
+}
